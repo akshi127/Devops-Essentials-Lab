@@ -1,2 +1,3 @@
 Login feature implemented.
 Username and password authentication added.
+Login feature updated.
